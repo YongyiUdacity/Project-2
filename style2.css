@@ -1,0 +1,46 @@
+.Title{
+  background-color: midnightblue;
+  text-align: center;
+  font-family: Georgia;
+  color: white;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.Lesson{
+  background-color: lightsteelblue;
+  text-align: left;
+  font-family: Georgia;
+  color: midnightblue;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 8px;
+}
+
+.Concept{
+  background-color: aliceblue;
+  border-radius: 15px;
+  padding: 1px;
+  margin: 8px;
+}
+
+.Concept-Title{
+  background-color: lavender;
+  text-align: left;
+  font-family: cursive;
+  color: black;
+  border-radius: 15px;
+  padding: 1px;
+  margin: 8px;
+}
+
+.Concept-Description{
+  background-color: mintcream;
+  text-align: left;
+  font-family: cursive;
+  font-size: 16px;
+  color: black;
+  border-radius: 15px;
+  margin: 15px;
+}
